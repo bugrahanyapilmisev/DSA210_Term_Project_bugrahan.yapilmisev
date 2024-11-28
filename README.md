@@ -21,14 +21,14 @@ By the end of my project, I want to uncover whether there is a meaningful relati
 
 ### Tools
 
-**[Visulat Studio Code](https://code.visualstudio.com): Used for coding and documentation.  
-**[Pandas](https://pandas.pydata.org/): Used for data cleaning, filtering, and structuring.  
-**[Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/): Supplementary for visualizations if needed.  
-**[Numpy](https://numpy.org/): Used for mathematical operations.  
-**[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Used for Parsing static HTML data and extracting the desired information.
-**[Request](https://requests.readthedocs.io/en/latest/): Used for retrieving static data from websites.
-**[Selenium](https://www.selenium.dev/): Used for extracting data from dynamic websites like Chess.com.
-**[Conda](https://anaconda.org/anaconda/conda): Used for creating virtual environments on Python on vs code to prevent conflicts.
+[Visulat Studio Code](https://code.visualstudio.com): Used for coding and documentation.  
+[Pandas](https://pandas.pydata.org/): Used for data cleaning, filtering, and structuring.  
+[Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/): Supplementary for visualizations if needed.  
+[Numpy](https://numpy.org/): Used for mathematical operations.  
+[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): Used for Parsing static HTML data and extracting the desired information.
+[Request](https://requests.readthedocs.io/en/latest/): Used for retrieving static data from websites.
+[Selenium](https://www.selenium.dev/): Used for extracting data from dynamic websites like Chess.com.
+[Conda](https://anaconda.org/anaconda/conda): Used for creating virtual environments on Python on vs code to prevent conflicts.
 
 ## Data Source
 
