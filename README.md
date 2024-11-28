@@ -11,7 +11,7 @@ Sabanci University CS210 Introduction to Data Science Course Fall 2023-2024 Term
 **[Data Source](#data-source)**  
 
 
-#Motivation
+# Motivation
 # My Chess.com Usage Data Analysis
 Since 2019, I have been playing chess regularly on chess.com. After enrolling in this course and learning about the term project, I began to wonder if there might be a connection between the frequency of my chess playing and my stress levels. Since chess.com is the only platform where I play chess, I can easily access the data related to my games.
 
