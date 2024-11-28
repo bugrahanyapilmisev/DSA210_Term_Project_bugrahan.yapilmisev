@@ -37,6 +37,8 @@ By the end of my project, I want to uncover whether there is a meaningful relati
 
 [Conda](https://anaconda.org/anaconda/conda): Used for creating virtual environments on Python on vs code to prevent conflicts.
 
+[Chess.com API](https://www.chess.com/club/chess-com-developer-community): Used for extracting chess.com data automatically.
+
 ## Data Source
 
 I have one main source of data:
