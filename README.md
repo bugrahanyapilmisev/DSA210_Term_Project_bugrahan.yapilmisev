@@ -9,10 +9,6 @@ Sabanci University CS210 Introduction to Data Science Course Fall 2023-2024 Term
 **[Tools](#tools)**  
 
 **[Data Source](#data-source)**  
-* [Requested data](#requested-data)
-* [Reddit API](#reddit-api)
-
-**[Data Processing](#data-processing)**
 
 
 #Motivation
