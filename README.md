@@ -43,7 +43,7 @@ By the end of my project, I want to uncover whether there is a meaningful relati
 
 I have one main source of data:
 
--   Data that is directly exported from Chess.com as a personal [data request](https://www.chess.com/games/archive).
+-   Data that is directly exported from Chess.com as a personal [data request](https://www.chess.com/games/archive). n
     a-) This dataset contains information about every game I have played in chess.com. For example, it contains ratings of players, movements, time info,            results, which player plays as black or white, etc. 
 
 
