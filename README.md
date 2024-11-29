@@ -1,7 +1,7 @@
 # Analyzing Chess.com Activity and Its Correlation with Stress Levels
 
 ## Description
-Sabancı University CS210 Introduction to Data Science Course Fall 2023-2024 Term Project. This project analyzes my Chess.com activity and its potential correlation with my stress levels, hypothesizing that chess activity frequency is influenced by academic stress.
+Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project analyzes my Chess.com activity and its potential correlation with my stress levels, hypothesizing that chess activity frequency is influenced by academic stress.
 
 ## Table of Contents
 - [Motivation](#motivation)  
