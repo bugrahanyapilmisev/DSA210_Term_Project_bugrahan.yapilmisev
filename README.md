@@ -17,6 +17,7 @@ To analyze this, I will:
 - Categorize academic intensity based on university exam schedules.
   
 This study may not only provide insights into my own stress management strategies but could also highlight the potential of chess as a stress-coping tool.
+Also, I will estimate my stress level only based on academic assignments (midterm, finals, crucial deadlines, etc.).So, I will try to find out whether playing chess is my self-stress coping mechanism for my academic stress level.
 
 ## Tools
 - **[Visual Studio Code](https://code.visualstudio.com):** For coding and documentation.
