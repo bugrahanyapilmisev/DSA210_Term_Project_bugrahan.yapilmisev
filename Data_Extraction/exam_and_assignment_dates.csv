@@ -1,0 +1,100 @@
+type,name,date
+exam,Rota4 Final Exam,20/01/2023
+exam,NS101 Midterm,15/04/2023
+exam,MATH101 Midterm,29/04/2023
+exam,SPS101 Midterm,15/04/2023
+exam,MATH101 Final,02/06/2023
+exam,NS101 Final,05/06/2023
+exam,SPS101 Final,04/06/2023
+exam,IF100 Final,03/06/2023
+exam,TLL101 Online Take Home Sınav,25/04/2023
+exam,TLL101 Final,07/06/2023
+exam,HIST191 Midterm,16/04/2023
+exam,HIST191 Midterm,07/06/2023
+exam,CS201 Midterm,10/08/2023
+exam,CS201 Final,29/08/2023
+exam,MATH201 Midterm,02/08/2023
+exam,MATH201 Final,28/08/2023
+exam,CS204 Midterm1,17/11/2023
+exam,CS204 Midterm2,22/12/2023
+exam,CS204 Final,13/01/2024
+exam,MATH102 Midterm1,11/11/2023
+exam,MATH102 Midterm2,09/12/2023
+exam,MATH102 Final,16/01/2024
+exam,NS102 Midterm,18/11/2023
+exam,NS102 Final,06/01/2024
+exam,TLL102 Ara Sınav,23/11/2023
+exam,TLL102 Final,11/01/2024
+exam,HIST192 Ara Sınav,25/11/2023
+exam,HIST192 Final,12/01/2024
+exam,SPS102 Midterm,18/11/2023
+exam,SPS102 Final,09/01/2024
+exam,AL102 Final,26/12/2023
+exam,AL102 Presentation,05/12/2023
+exam,CS306 Midterm,06/05/2024
+exam,CS306 Final,08/06/2024
+exam,CS300 Midterm,29/04/2024
+exam,CS300 Final,01/06/2024
+exam,MATH203 Midterm1,23/03/2024
+exam,MATH203 Midterm2,11/05/2024
+exam,MATH203 Final,30/05/2024
+exam,MATH204 Midterm1,24/03/2024
+exam,MATH204 Midterm2,05/05/2024
+exam,MATH204 Final,09/06/2024
+exam,HUM202 Midterm,03/04/2024
+exam,HUM202 Final,05/06/2024
+exam,PROJ201 Final Presentation Study,31/05/2024
+exam,CS303 Midterm1,02/11/2024
+exam,CS303 Midterm2,14/12/2024
+exam,CS301 Midterm,23/11/2024
+exam,CS308 Midterm,30/11/2024
+exam,CS310 Midterm,04/11/2024
+exam,IE303 Midterm1,14/11/2024
+exam,IE303 Midterm2,12/12/2024
+exam,DSA210 Midterm,10/11/2024
+assignment,SPS101 Summary Paper,07/04/2023
+assignment,IF100 THE1,14/03/2023
+assignment,IF100 THE2,02/04/2023
+assignment,IF100 THE3,19/04/2023
+assignment,IF100 THE4,03/05/2023
+assignment,IF100 THE5,28/05/2023
+assignment,TLL101 ÖDEV1,11/03/2023
+assignment,TLL101 ÖDEV2,18/03/2023
+assignment,TLL101 QUİZ1,29/03/2023
+assignment,TLL101 QUİZ2,05/04/2023
+assignment,TLL102 Quiz3,03/05/2023
+assignment,TLL102 Quiz4,10/05/2023
+assignment,TLL102 Quiz5,24/05/2023
+assignment,CS201 THE1,15/07/2023
+assignment,CS201 THE2,24/07/2023
+assignment,CS201 THE3,04/08/2023
+assignment,CS201 THE4,13/08/2023
+assignment,CS201 THE5,20/08/2023
+assignment,CS204 HW1,10/10/2023
+assignment,CS204 HW2,26/10/2023
+assignment,CS204 HW3,04/11/2023
+assignment,CS204 HW4,18/11/2023
+assignment,CS204 HW5,28/11/2023
+assignment,CS204 HW6,27/12/2023
+assignment,SPS102 Research Portfolio Task1,05/11/2023
+assignment,SPS102 Research Portfolio Task2,23/11/2023
+assignment,SPS102 Research Portfolio Task3,23/12/2023
+assignment,CS306 Project Phase1,01/03/2024
+assignment,CS306 Project Phase2,03/04/2024
+assignment,CS306 Project Phase3,14/05/2024
+assignment,CS306 Project Phase4,21/05/2024
+assignment,CS300 HW1,10/03/2024
+assignment,CS300 HW2,01/04/2024
+assignment,CS300 HW3,01/05/2024
+assignment,CS300 HW4,20/05/2024
+assignment,HUM202 Museum Assignment,09/05/2024
+assignment,CS303 Lab1,15/10/2024
+assignment,CS303 Lab2,12/11/2024
+assignment,CS303 Lab3,23/11/2024
+assignment,CS303 Lab4 Study,10/12/2024
+assignment,CS301 HW1,07/10/2024
+assignment,CS301 HW2,15/10/2024
+assignment,CS301 HW3,22/10/2024
+assignment,CS301 HW4,01/11/2024
+assignment,CS308 Term Project Study,03/12/2024
+assignment,CS310 Term Project Study,21/11/2024
