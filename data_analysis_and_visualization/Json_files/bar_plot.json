@@ -1,0 +1,38 @@
+[
+    {
+        "workload": 0.0,
+        "chess_count": 5.3453815261044175
+    },
+    {
+        "workload": 1.0,
+        "chess_count": 5.704
+    },
+    {
+        "workload": 2.0,
+        "chess_count": 5.5813953488372094
+    },
+    {
+        "workload": 3.0,
+        "chess_count": 6.083333333333333
+    },
+    {
+        "workload": 4.0,
+        "chess_count": 7.5344827586206895
+    },
+    {
+        "workload": 5.0,
+        "chess_count": 6.695652173913044
+    },
+    {
+        "workload": 6.0,
+        "chess_count": 5.75
+    },
+    {
+        "workload": 7.0,
+        "chess_count": 5.571428571428571
+    },
+    {
+        "workload": 8.0,
+        "chess_count": 9.666666666666666
+    }
+]

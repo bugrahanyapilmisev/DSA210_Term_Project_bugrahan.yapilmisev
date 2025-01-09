@@ -1,0 +1,17 @@
+{
+    "workload": {
+        "workload": 1.0,
+        "chess_count": 0.0907440645529528,
+        "win_rate": -0.14202437256092224
+    },
+    "chess_count": {
+        "workload": 0.0907440645529528,
+        "chess_count": 1.0,
+        "win_rate": 0.22062398855452572
+    },
+    "win_rate": {
+        "workload": -0.14202437256092224,
+        "chess_count": 0.22062398855452572,
+        "win_rate": 1.0
+    }
+}
